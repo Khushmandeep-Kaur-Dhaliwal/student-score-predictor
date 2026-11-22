@@ -48,13 +48,13 @@ A beginner-friendly **Machine Learning & Data Science** web application built wi
 ## 📸 Screenshots
 
 ### 1. Live Prediction Dashboard & Model Metrics
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](student-score-predictor/screenshots/dashboard_overview_marks_predictor.png)
 
 ### 2. Interactive Student Input Controls (Sidebar)
-![Sidebar Inputs](screenshots/sidebar_inputs.png)
+![Sidebar Inputs](student-score-predictor/screenshots/student_details_input.png)
 
 ### 3. Study Habits Trendline & Model Validation Charts
-![Charts View](screenshots/charts_view.png)
+![Charts View](student-score-predictor/screenshots/charts_view.png)
 
 ### 4. Feature Weights & Dataset Explorer
-![Feature Weights](screenshots/feature_weights.png)
+![Feature Weights](student-score-predictor/screenshots/feature_weights.png)
